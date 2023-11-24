@@ -4,6 +4,4 @@ Fantasy cricket is an online game where you can create a virtual team of real cr
 
 Tools and libraries used in this project - Python 3.9.0, PyQt5, sqlite3, num2words
 
-
-
-YouTube video - <iframe width="560" height="315" src="https://www.youtube.com/embed/nAnb7mK7LAo?si=5k8IJIwxxJuaSxLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Fantasy Cricket with PyQt5](https://img.youtube.com/vi/nAnb7mK7LAo&t=5s/0.jpg)](https://www.youtube.com/watch?v=nAnb7mK7LAo&t=5s "Fantasy Cricket with PyQt5")
